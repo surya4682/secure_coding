@@ -6,4 +6,4 @@ The randomizer folder condain the code for randomizer.sh which  is input validat
 
 The 16 unsecured codes(codeN11**.c) in securecoding folder are secured in the respective N11** folders which contain the secure code 
 
-The N11** folders contain the secured code, the clang warnings are in index.html and ./a.out gives the output of the secured code. 
+The N11** folders contain the secured code (codeN11**.c) respectively, the clang warnings are in index.html and ./a.out gives the output of the secured code. 
